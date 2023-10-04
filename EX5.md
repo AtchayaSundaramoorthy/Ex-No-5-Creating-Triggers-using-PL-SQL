@@ -85,7 +85,8 @@ SELECT * FROM sal_logg;
 ```
 
 ### Output:
-![Creating triggers](https://github.com/Jeevapriya14/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/121003043/6caf3238-451b-44b6-bf6c-a901cd1311b3)
+![t](https://github.com/AtchayaSundaramoorthy/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/119393516/a5e06555-783a-468a-baaf-1d20fb028c3f)
+
 
 
 ### Result:
